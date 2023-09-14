@@ -1,6 +1,6 @@
 <img align="center" src="https://res.cloudinary.com/dzm5lgpyv/image/upload/v1685399475/mercadolibre%20readme/Sin_t%C3%ADtulo_zky0wb.png">
 
-<h3>👉🏻 Clon de Mercado Libre realizado en equipo multidisciplinario como proyecto para No Country.</h3>
+<h3>👉🏻 Clon de Mercado Libre realizado en equipo multidisciplinario.</h3>
 
 <h3>👉🏻 <b>Deploy: <a href="https://mercadolibre-s8-08.netlify.app/">Mercado Libre</a></b></h3>
 
